@@ -489,6 +489,7 @@
 
 .header__mobile-search {
     padding: 0 12px;
+    display: none;
 }
 
 .header__mobile-search i {
@@ -1007,7 +1008,7 @@
 
 /* Mobile category */
 .mobile-category {
-
+    display: none;
 }
 
 .mobile-category__list {
@@ -1056,6 +1057,7 @@
     font-weight: 300;
     user-select: none;
     -webkit-user-select: none;
+    padding: 0 6px;
 }
 
 /* Home sort : filter */
